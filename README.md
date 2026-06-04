@@ -143,6 +143,6 @@ Sistem mampu:
 
 Briliant Vilendro Kastilong
 
-Sistem Informasi
+Teknik Informatika
 
-Universitas Pamulang
+Universitas Mercu Buana
